@@ -1,7 +1,9 @@
 [project]
-name = "testproject"
+name = "v2w"
 version = "0.1.0"
-description = "Add your description here"
+description = "Calculates de Broglie wavelength of electron from acceleration voltage"
 readme = "README.md"
 requires-python = ">=3.13"
-dependencies = []
+dependencies = [
+    "pyside6>=6.10.1",
+]

@@ -63,7 +63,7 @@ wheels = [
 ]
 
 [[package]]
-name = "wavelength-calc-gui"
+name = "v2w"
 version = "0.1.0"
 source = { virtual = "." }
 dependencies = [
